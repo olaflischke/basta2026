@@ -81,8 +81,3 @@ Lege alle nötigen Dateien an und stelle sicher, dass das Projekt danach kompili
 
 Copilot legt Dateien an, bearbeitet `Program.cs` und führt `dotnet build` aus, um zu prüfen, ob alles kompiliert.
 
----
-
-## Hinweis für die Live-Demo
-
-Der **Plan → Agent**-Übergang ist der stärkste Moment für das Publikum. Zeige erst den Plan-Prompt, lass das Publikum den Plan lesen und nicken – dann kopiere den Plan direkt in den Agent-Modus und führe ihn aus. Der Kontrast zwischen „Copilot plant" und „Copilot handelt" ist sofort verständlich. Besonders wirkungsvoll: Der Agent-Prompt ist kein neuer Gedanke – er ist exakt das, was Copilot selbst im Plan-Schritt vorgeschlagen hat.
